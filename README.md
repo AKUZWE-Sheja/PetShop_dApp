@@ -12,7 +12,7 @@ Front-End: Build a basic front-end to interact with the pet shop contracts.
 Testing: Test the functionality of the pet shop to ensure everything works as expected.
 Deployment: Deploy the pet shop to a public Ethereum network for real-world use.
 Usage
-Clone this repository: git clone https://github.com/your-repo-name.git
+Clone this repository:https://github.com/AKUZWE-Sheja/PetShop_dApp.git
 Install dependencies: npm install
 Follow the tutorial instructions in the tutorial directory to create your own Truffle pet shop.
 Credits
